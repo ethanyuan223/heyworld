@@ -5,6 +5,7 @@ public class hello {
         System.out.println("Hello world!");
         int a = 1;
         int c = 1;
+        int b = 1;
     }
 
 }
